@@ -1,6 +1,5 @@
 $(document).ready(function(){
-  $('.btn').click(function() {
-    alert('hi')
+
   })
   var search = $('#search')
   search.on('keyup', function(e)
