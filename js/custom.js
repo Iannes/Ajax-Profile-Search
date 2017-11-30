@@ -1,6 +1,5 @@
 $(document).ready(function(){
 
-  })
   var search = $('#search')
   search.on('keyup', function(e)
   {
@@ -95,4 +94,4 @@ $(document).ready(function(){
           `)
         })
     })
-  });
+  })
